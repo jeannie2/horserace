@@ -5,7 +5,7 @@ A simple “flip book” showing the gait of a running horse.
 ## Technologies
 This project is created using JavaScript.
 
-## Setup
+## How to use
 Use left and right arrow keys.
 
 ## Sources
